@@ -1,0 +1,14 @@
+{
+  "name": "backend-attempt",
+  "version": "1.0.0",
+  "description": "My first attempt at writing a full backend with api/routes and storage on node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
